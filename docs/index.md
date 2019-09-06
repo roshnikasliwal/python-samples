@@ -88,5 +88,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Documentation
 
-https://roshnikasliwal.github.io/python-samples/
+[Doc](https://roshnikasliwal.github.io/python-samples/)
 
