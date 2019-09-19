@@ -977,3 +977,11 @@ from sklearn.metrics import accuracy_score, confusion_matrix, classification_rep
 >>> word_tokenize(sentence)
 ['Hello', '!', 'My', 'Name', 'is', 'Nasir', 'Islam', 'Sujan', '.']
 ```
+
+# IoT
+
+Device Hardware
+Device Software
+Network Connectivity
+Cloud Platform
+IoT Applications
